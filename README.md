@@ -2,7 +2,7 @@
 
 ```js
 const Montori86 = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components],
   
