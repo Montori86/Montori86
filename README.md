@@ -4,7 +4,7 @@
 const Montori86 = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Bootstrap, express],
+  tools: [React, Redux, Node, Bootstrap, Express],
   
 }
 ```
