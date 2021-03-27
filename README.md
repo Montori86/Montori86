@@ -1,10 +1,13 @@
 ### Hi there 👋
+
+```js
 const Montori86 = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components],
   
 }
+```
 <!--
 **Montori86/Montori86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
