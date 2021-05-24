@@ -8,8 +8,6 @@ const Montori86 = {
   
 }
 ```
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 🔭 I’m currently working on [E-Shits!](https://eshirt.vercel.app/)
 
 
