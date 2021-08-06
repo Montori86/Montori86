@@ -9,7 +9,7 @@ const Montori86 = {
 }
 ```
 - 🔭 I’m currently working on [E-Shits!](https://eshirt.vercel.app/)
-- 📫 How to reach me: [Contact](https://portfolio-rosy-theta.vercel.app/)
+- 📫 How to reach me: [Contact](https://montori86.github.io/montori.github.io/)
 
 
 <h3 align="left">Languages and Tools:</h3>
