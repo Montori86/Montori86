@@ -8,7 +8,7 @@ const Montori86 = {
   
 }
 ```
-- 🔭 I’m currently working on [E-Shits!](https://eshirt.vercel.app/)
+- 🔭 I’m currently working on [POW.]([https://eshirt.vercel.app/](https://www.pow.la/))
 - 📫 How to reach me: [Contact](https://montori86.github.io/montori.github.io/)
 
 
